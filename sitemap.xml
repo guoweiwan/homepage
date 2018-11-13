@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+    
+    <url>
+    
+      <loc>https://about.kaiyai.com/post/weekly_report_8/</loc>
+      <lastmod>2018-05-04T01:27:07+08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://about.kaiyai.com/tags/academic/</loc>
+      <lastmod>2017-01-01T00:00:00+08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://about.kaiyai.com/talk/example-talk/</loc>
+      <lastmod>2017-01-01T00:00:00+08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://about.kaiyai.com/post/</loc>
+      <lastmod>2017-01-01T00:00:00+08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://about.kaiyai.com/publication/</loc>
+      <lastmod>2017-01-01T00:00:00+08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://about.kaiyai.com/talk/</loc>
+      <lastmod>2017-01-01T00:00:00+08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://about.kaiyai.com/project/deep-learning/</loc>
+      <lastmod>2016-04-27T00:00:00+08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://about.kaiyai.com/project/example-external-project/</loc>
+      <lastmod>2016-04-27T00:00:00+08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://about.kaiyai.com/post/getting-started/</loc>
+      <lastmod>2018-01-13T00:00:00+08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://about.kaiyai.com/publication/person-re-identification/</loc>
+      <lastmod>2015-09-01T00:00:00+08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://about.kaiyai.com/publication/clothing-search/</loc>
+      <lastmod>2013-07-01T00:00:00+08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://about.kaiyai.com/publication_types/1/</loc>
+      <lastmod>2013-07-01T00:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://about.kaiyai.com/publication_types/2/</loc>
+      <lastmod>2015-09-01T00:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://about.kaiyai.com/categories/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+<<<<<<< HEAD
+      <loc>https://about.kaiyai.com/tags/deep-learning/</loc>
+      <lastmod>2016-04-27T00:00:00+08:00</lastmod>
+=======
+      <loc>https://about.kaiyai.com/</loc>
+      <lastmod>2016-04-20T00:00:00+08:00</lastmod>
+>>>>>>> init
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+<<<<<<< HEAD
+      <loc>https://about.kaiyai.com/tags/demo/</loc>
+=======
+      <loc>https://about.kaiyai.com/project/</loc>
+>>>>>>> init
+      <lastmod>2016-04-27T00:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+<<<<<<< HEAD
+      <loc>https://about.kaiyai.com/</loc>
+      <lastmod>2016-04-20T00:00:00+08:00</lastmod>
+=======
+      <loc>https://about.kaiyai.com/publication_types/</loc>
+      <lastmod>2013-07-01T00:00:00+08:00</lastmod>
+>>>>>>> init
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+<<<<<<< HEAD
+      <loc>https://about.kaiyai.com/project/</loc>
+      <lastmod>2016-04-27T00:00:00+08:00</lastmod>
+=======
+      <loc>https://about.kaiyai.com/tags/</loc>
+      <lastmod>2017-01-01T00:00:00+08:00</lastmod>
+>>>>>>> init
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+<<<<<<< HEAD
+      <loc>https://about.kaiyai.com/publication_types/</loc>
+      <lastmod>2013-07-01T00:00:00+08:00</lastmod>
+=======
+      <loc>https://about.kaiyai.com/tags/deep-learning/</loc>
+      <lastmod>2016-04-27T00:00:00+08:00</lastmod>
+>>>>>>> init
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+<<<<<<< HEAD
+      <loc>https://about.kaiyai.com/tags/</loc>
+      <lastmod>2017-01-01T00:00:00+08:00</lastmod>
+=======
+      <loc>https://about.kaiyai.com/tags/demo/</loc>
+      <lastmod>2016-04-27T00:00:00+08:00</lastmod>
+>>>>>>> init
+      <priority>0</priority>
+    </url>
+    
+  
+</urlset>
