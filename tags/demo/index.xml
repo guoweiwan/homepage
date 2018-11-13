@@ -1,15 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-<<<<<<< HEAD
-    <title>Demo on Kaiya Xiong&#39;s Homepage</title>
-    <link>https://about.kaiyai.com/tags/demo/</link>
-    <description>Recent content in Demo on Kaiya Xiong&#39;s Homepage</description>
-=======
     <title>demo on Kaiya Xiong&#39;s Homepage</title>
     <link>https://about.kaiyai.com/tags/demo/</link>
     <description>Recent content in demo on Kaiya Xiong&#39;s Homepage</description>
->>>>>>> init
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Kaiya Xiong</copyright>

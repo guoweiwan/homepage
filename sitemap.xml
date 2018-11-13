@@ -118,13 +118,8 @@
     
     <url>
     
-<<<<<<< HEAD
-      <loc>https://about.kaiyai.com/tags/deep-learning/</loc>
-      <lastmod>2016-04-27T00:00:00+08:00</lastmod>
-=======
       <loc>https://about.kaiyai.com/</loc>
       <lastmod>2016-04-20T00:00:00+08:00</lastmod>
->>>>>>> init
       <priority>0</priority>
     </url>
     
@@ -132,11 +127,7 @@
     
     <url>
     
-<<<<<<< HEAD
-      <loc>https://about.kaiyai.com/tags/demo/</loc>
-=======
       <loc>https://about.kaiyai.com/project/</loc>
->>>>>>> init
       <lastmod>2016-04-27T00:00:00+08:00</lastmod>
       <priority>0</priority>
     </url>
@@ -145,13 +136,8 @@
     
     <url>
     
-<<<<<<< HEAD
-      <loc>https://about.kaiyai.com/</loc>
-      <lastmod>2016-04-20T00:00:00+08:00</lastmod>
-=======
       <loc>https://about.kaiyai.com/publication_types/</loc>
       <lastmod>2013-07-01T00:00:00+08:00</lastmod>
->>>>>>> init
       <priority>0</priority>
     </url>
     
@@ -159,13 +145,8 @@
     
     <url>
     
-<<<<<<< HEAD
-      <loc>https://about.kaiyai.com/project/</loc>
-      <lastmod>2016-04-27T00:00:00+08:00</lastmod>
-=======
       <loc>https://about.kaiyai.com/tags/</loc>
       <lastmod>2017-01-01T00:00:00+08:00</lastmod>
->>>>>>> init
       <priority>0</priority>
     </url>
     
@@ -173,13 +154,8 @@
     
     <url>
     
-<<<<<<< HEAD
-      <loc>https://about.kaiyai.com/publication_types/</loc>
-      <lastmod>2013-07-01T00:00:00+08:00</lastmod>
-=======
       <loc>https://about.kaiyai.com/tags/deep-learning/</loc>
       <lastmod>2016-04-27T00:00:00+08:00</lastmod>
->>>>>>> init
       <priority>0</priority>
     </url>
     
@@ -187,13 +163,8 @@
     
     <url>
     
-<<<<<<< HEAD
-      <loc>https://about.kaiyai.com/tags/</loc>
-      <lastmod>2017-01-01T00:00:00+08:00</lastmod>
-=======
       <loc>https://about.kaiyai.com/tags/demo/</loc>
       <lastmod>2016-04-27T00:00:00+08:00</lastmod>
->>>>>>> init
       <priority>0</priority>
     </url>
     
